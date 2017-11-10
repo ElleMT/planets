@@ -1,1 +1,2 @@
-mars is a planet
+Mars is a planet. 
+Mars is pretty sweet looking.
